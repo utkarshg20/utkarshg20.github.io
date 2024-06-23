@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b7a6d53.css",
+    "main.js": "/static/js/main.a8d4b992.js",
+    "static/js/453.f5519e65.chunk.js": "/static/js/453.f5519e65.chunk.js",
+    "static/media/pic3.png": "/static/media/pic3.07dd5d6b90dca6f612a6.png",
+    "static/media/medicare.png": "/static/media/medicare.3bd4ad11203db412c220.png",
+    "static/media/site_logo.gif": "/static/media/site_logo.1e052aa1c7f4124cc174.gif",
+    "static/media/pic4.png": "/static/media/pic4.66ae4b2c92a6f27edbe7.png",
+    "static/media/backtrade.png": "/static/media/backtrade.4382b4b1906c088d528a.png",
+    "static/media/chainspark.png": "/static/media/chainspark.f01bd5072ab2c9c8a482.png",
+    "static/media/coinwise.png": "/static/media/coinwise.a06c6a6d449cf1fbecc9.png",
+    "static/media/wealth-harbour.png": "/static/media/wealth-harbour.a288746d83ab4adae936.png",
+    "static/media/tradelyne.png": "/static/media/tradelyne.3f86ec00c2400c5afd8d.png",
+    "static/media/loolearnai.png": "/static/media/loolearnai.e3b87cb5c5361ea05255.png",
+    "static/media/github.png": "/static/media/github.9eff1fd3bf5b978a2cab.png",
+    "static/media/linkedin.png": "/static/media/linkedin.ba884e1f9ad4362348c1.png",
+    "static/media/mail.png": "/static/media/mail.1c8d205450d8497d206b.png",
+    "index.html": "/index.html",
+    "main.5b7a6d53.css.map": "/static/css/main.5b7a6d53.css.map",
+    "main.a8d4b992.js.map": "/static/js/main.a8d4b992.js.map",
+    "453.f5519e65.chunk.js.map": "/static/js/453.f5519e65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7a6d53.css",
+    "static/js/main.a8d4b992.js"
+  ]
+}
